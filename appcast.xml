@@ -3,6 +3,14 @@
     <channel>
         <title>拝聴くん</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Tue, 07 Jul 2026 16:00:44 +0900</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Taka58Sado/haichoukun-updates/releases/download/v1.0.5/HaichouKun.dmg" length="5185976" type="application/octet-stream" sparkle:edSignature="1W2pSrnymjNagHaTLvedQOqg/io7gQCb2XoXPlJEulA5/uf8CN3HXAuiJ/lK/UKEmlGc5yQcfmbyEOx4DjMeCA=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Tue, 07 Jul 2026 15:09:59 +0900</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Taka58Sado/haichoukun-updates/releases/download/v1.0.3/HaichouKun.dmg" length="5157795" type="application/octet-stream" sparkle:edSignature="Vav57PaPPREAPbXB3WN7ieuNjTVANnFmh8TGRbGSbwZRtpS6sl7wx4EOhvP9OEDL0B5eiwB73DsYh8AcAZgUAQ=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Mon, 06 Jul 2026 16:37:33 +0900</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Taka58Sado/haichoukun-updates/releases/download/v1.0.2/HaichouKun.dmg" length="5149776" type="application/octet-stream" sparkle:edSignature="GROjRiZgDv1HNn44eac1xdIcvk62IYz2ghx6CU8wjTBbsB/sUitI2SgfRWfSNmYKRGRYjzkLGVOJnxTfzYywDA=="/>
         </item>
     </channel>
 </rss>
