@@ -3,6 +3,14 @@
     <channel>
         <title>拝聴くん</title>
         <item>
+            <title>1.1.14</title>
+            <pubDate>Mon, 26 Oct 2026 11:26:37 +0900</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.1.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Taka58Sado/haichoukun-updates/releases/download/v1.1.14/HaichouKun.dmg" length="5899764" type="application/octet-stream" sparkle:edSignature="KPFp5GnP5R4ycEvLXSXUNE4OsudMzBUtmDxFZhVLcM5IxDssxtsXW+L2fcG41W5ZlJUttV+pq6yunVjSSI9vBw=="/>
+        </item>
+        <item>
             <title>1.1.13</title>
             <pubDate>Mon, 19 Oct 2026 19:29:30 +0900</pubDate>
             <sparkle:version>26</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Taka58Sado/haichoukun-updates/releases/download/v1.1.12/HaichouKun.dmg" length="5878959" type="application/octet-stream" sparkle:edSignature="koIMGVU7HP4ZBBkzA/HufupMj8QGE7LqdqQCvfrY2LOxg5uL8rQdQ+jdPOZ5KqsFlifA+etZZyRB+haoDo3bDA=="/>
-        </item>
-        <item>
-            <title>1.1.11</title>
-            <pubDate>Mon, 12 Oct 2026 22:18:45 +0900</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Taka58Sado/haichoukun-updates/releases/download/v1.1.11/HaichouKun.dmg" length="5862800" type="application/octet-stream" sparkle:edSignature="pKQgKivUFDS4Gk1Y9UoYvx/ifx8RDcs6SaARRP70IqzWUQQOuIBn1yaTv7gq7TfyDXCEuGFm7Ln7AxDUpKRuCQ=="/>
         </item>
     </channel>
 </rss>
